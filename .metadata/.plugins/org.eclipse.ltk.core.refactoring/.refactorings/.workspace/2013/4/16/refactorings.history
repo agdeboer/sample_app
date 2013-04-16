@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Sample App/app/assers/stylesheets/custom.css.scss&apos;" deleteContents="false" description="Delete resource &apos;Sample App/app/assers/stylesheets/custom.css.scss&apos;" element1="/Sample App/app/assers/stylesheets/custom.css.scss" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1366054809642"/>
+</session>
